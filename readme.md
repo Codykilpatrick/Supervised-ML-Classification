@@ -3,6 +3,8 @@
 
 ## [Link to final report](https://docs.google.com/document/d/1mjoQEIyxzc1QiHSIAmltiGrD6pOn2O9eqoP4XNtfSpE/edit?usp=sharing)
 
+![The pairplot of all values and their faults](https://imgur.com/SkgYh3O)
+
 ## Problem description
 The main objective of the analysis here is to focus on prediction. We want to build a model that will determine if a line is faulted and what type of fault it is to better deploy technicians with the right tools to enable minimum downtime.
 
