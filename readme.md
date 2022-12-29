@@ -1,3 +1,9 @@
+## Tackling powerline fault location with supervised machine learning
+## [Link to the dataset](https://www.kaggle.com/datasets/esathyaprakash/electrical-fault-detection-and-classification)
+
+## [Link to final report](https://docs.google.com/document/d/1mjoQEIyxzc1QiHSIAmltiGrD6pOn2O9eqoP4XNtfSpE/edit?usp=sharing)
+
+
 The main objective of the analysis here is to focus on prediction. We want to build a model that will determine if a line is faulted and what type of fault it is to better deploy technicians with the right tools to enable minimum downtime.
 This project directly benefits the business by creating tripwires for response generations immediately when a fault occurs instead of waiting for an outside report.
 It also creates a more informed on-site technician. With knowledge of the fault type the technician is able to plan, gather appropriate tools and the required number of people. This is different from the current method of, show up to site, evaluate, plan, return to shop and gather tools, then return to site to fix the fault.
