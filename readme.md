@@ -1,8 +1,6 @@
 ## Tackling powerline fault location with supervised machine learning
 ## [Link to the dataset](https://www.kaggle.com/datasets/esathyaprakash/electrical-fault-detection-and-classification)
 
-## [Link to final report](https://docs.google.com/document/d/1mjoQEIyxzc1QiHSIAmltiGrD6pOn2O9eqoP4XNtfSpE/edit?usp=sharing)
-
 ![The pairplot of all values and their faults](https://i.imgur.com/SkgYh3O.png)
 
 ## Problem description
@@ -28,3 +26,5 @@ The dataset has the following attributes:
 - Jupyter Notebook
 - Python
 - Git
+
+## [Link to final report](https://docs.google.com/document/d/1mjoQEIyxzc1QiHSIAmltiGrD6pOn2O9eqoP4XNtfSpE/edit?usp=sharing)
